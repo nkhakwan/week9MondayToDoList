@@ -19,6 +19,8 @@ namespace ToDoList.Tests
     {
       Item newItem = new Item("test");
       Assert.AreEqual(typeof(Item), newItem.GetType());
+      Console.WriteLine(typeof(Item));
+      Console.WriteLine(newItem.GetType());
     }
 
     [TestMethod]
