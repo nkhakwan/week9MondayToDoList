@@ -1,6 +1,10 @@
+using System.Collections.Generic;
+using ToDoList.Models;
+using System;
+
 namespace ToDoList.Models
 {
-class Item
+public class Item
   {
     public string Description { get; set; }
     private static List<Item> _instances = new List<Item> {};
