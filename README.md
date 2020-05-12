@@ -30,8 +30,7 @@ _Have a bug or an issue with this application? email post_khan@Yahoo.com_
 
 
 ## Technical Specs
-### Bread is for 5 dollars. If customer wants more than two, Each set of two Loaves comes with one extra bread.
-### Pastries are $2 a piece. If customer orders 3 or more, each pastry is float (5/3) = $1.66666
+### None really. Just go to ToDoList.ModelTests directory and run "dotnet test" . And then read the test file in the same directory to see what those five tests are.
 
 
 ### License
